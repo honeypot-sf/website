@@ -1,0 +1,55 @@
+<manifest alg="2" build="2" opt="false">
+  <folder name="assets">
+    <file name="honeypotconsentform.pdf" crc="391199411" mt="1358735942000"/>
+    <file name="honeypotladiesprices.pdf" crc="3852436761" mt="1358983058000"/>
+    <file name="honeypotgentlemanprices.pdf" crc="3996560611" mt="1358743028000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="3930063174"/>
+    <file name="master_a-master.css" crc="106128279" ref="advice:contact:services:about"/>
+    <file name="advice.css" crc="3949476322" ref="advice"/>
+    <file name="contact.css" crc="274106963" ref="contact"/>
+    <file name="services.css" crc="4287972741" ref="services"/>
+    <file name="about.css" crc="3852429242" ref="about"/>
+    <file name="index.css" crc="40886232" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <folder name="1.1">
+      <file name="jquery-1.7.min.js" crc="4285342938" ref="services:index:contact:about:advice"/>
+      <file name="museutils.js" crc="3944585760" ref="services:index:contact:about:advice"/>
+      <file name="pie.js" crc="3786417276" ref="services:index:contact:about:advice"/>
+      <file name="pie.htc" crc="354638364" ref="services:index:contact:about:advice"/>
+      <file name="jquery.tobrowserwidth.js" crc="4237930348" ref="services:index:contact:about:advice"/>
+      <file name="jquery.musemenu.js" crc="133813972" ref="services:contact:about:advice"/>
+      <file name="jquery.watch.js" crc="346672883" ref="services:index:contact:about:advice"/>
+      <file name="jquery.musepolyfill.bgsize.js" crc="398106652" ref="index"/>
+    </folder>
+  </folder>
+  <folder name="images">
+    <file name="honeycombbkgd.jpg" crc="516237178" ref="services:contact:about:advice"/>
+    <file name="honeypotlogorgb.png" crc="252426623" ref="services:contact:about:advice"/>
+    <file name="booknowbttn-u728.png" crc="431436456" ref="services"/>
+    <file name="privateclientroomimg.jpg" crc="138977744" ref="services"/>
+    <file name="booknowbttn-u828.png" crc="431436456" ref="services"/>
+    <file name="waitingroom.jpg" crc="4221190059" ref="index"/>
+    <file name="booknowbttn-u802.png" crc="431436456" ref="contact"/>
+    <file name="locationmap.png" crc="3765166266" ref="contact"/>
+    <file name="businesscardimg.jpg" crc="172748940" ref="about"/>
+    <file name="booknowbttn-u917.png" crc="431436456" ref="about"/>
+    <file name="booknowbttn-u947.png" crc="431436456" ref="advice"/>
+    <file name="welcome-to-honeypot-favicon.ico" crc="3780887077" ref="index"/>
+    <file name="birdsinglassimg.jpg" crc="316670772" ref="advice"/>
+    <file name="services-favicon.ico" crc="3906440502" ref="services"/>
+    <file name="contact-favicon.ico" crc="3906440502" ref="contact"/>
+    <file name="waitingroomcontactimg.jpg" crc="4095666107" ref="contact"/>
+    <file name="about-favicon.ico" crc="3906440502" ref="about"/>
+    <file name="advice-favicon.ico" crc="3906440502" ref="advice"/>
+    <file name="facebook2.png" crc="88107090" ref="services:contact:about:advice"/>
+    <file name="yelp.png" crc="97578081" ref="services:contact:about:advice"/>
+  </folder>
+  <file name="services.html" crc="453394130" mt="1359586516231"/>
+  <file name="index.html" crc="3983657288" mt="1358744044567"/>
+  <file name="contact.html" crc="3826384349" mt="1359586554623"/>
+  <file name="about.html" crc="365240261" mt="1359586497495"/>
+  <file name="advice.html" crc="518337577" mt="1359587034179"/>
+</manifest>
