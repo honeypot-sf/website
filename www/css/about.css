@@ -344,6 +344,9 @@ html
 	margin-right: -10000px;
 	margin-top: 62px;
 	left: 610px;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
 }
 
 #u1031-2
@@ -507,4 +510,3 @@ body
 {
 	clear: both;
 }
-
