@@ -582,18 +582,22 @@ html
 #u994-10
 {
 	z-index: 93;
-	width: 549px;
+	width: 450px;
 	min-height: 103px;
 	position: relative;
-	margin-right: -10000px;
 	margin-top: 84px;
-	left: 202px;
+	padding: 10px;
+	border-radius: 2px;
+	margin-top: 84px;
+	left: 510px;
+	top: -60px;
+	background-color: rgba(0,0,0,.3);
 }
 
 #u994-2,#u994-4
 {
 	font-size: 26px;
-	text-align: left;
+	text-align: right;
 	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
@@ -601,7 +605,7 @@ html
 
 #u994-5,#u994-7
 {
-	text-align: left;
+	text-align: right;
 }
 
 #pu1167
@@ -671,4 +675,3 @@ body
 {
 	clear: both;
 }
-

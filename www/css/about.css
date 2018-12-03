@@ -421,12 +421,15 @@ html
 #u993-10
 {
 	z-index: 57;
-	width: 549px;
-	min-height: 103px;
+	width: 520px;
 	position: relative;
-	margin-right: -10000px;
 	margin-top: 54px;
-	left: 412px;
+	left: 425px;
+  top: -40px;
+	background-color: rgba(0,0,0,.3);
+	padding: 10px;
+	padding-right: 20px;
+	border-radius: 2px;
 }
 
 #u993-2,#u993-4

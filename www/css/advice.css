@@ -411,17 +411,20 @@ html
 {
 	z-index: 120;
 	width: 359px;
-	min-height: 285px;
 	position: relative;
-	margin-right: -10000px;
 	margin-top: 31px;
-	left: 75px;
+	left: 580px;
+  top: 180px;
+	background-color: rgba(0,0,0,.3);
+	padding: 10px;
+	padding-right: 20px;
+	border-radius: 2px;
 }
 
 #u996-2
 {
 	font-size: 26px;
-	text-align: left;
+	text-align: right;
 	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
@@ -429,7 +432,7 @@ html
 
 #u996-3,#u996-5
 {
-	text-align: left;
+	text-align: right;
 }
 
 #pu1176
@@ -499,4 +502,3 @@ body
 {
 	clear: both;
 }
-

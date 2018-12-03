@@ -447,18 +447,16 @@ html
 #u995-10
 {
 	z-index: 100;
-	width: 549px;
-	min-height: 103px;
+	width: 200px;
 	position: relative;
-	margin-right: -10000px;
 	margin-top: 36px;
-	left: 71px;
+	left: 750px;
 }
 
 #u995-4
 {
 	font-size: 26px;
-	text-align: left;
+	text-align: right;
 	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
@@ -466,7 +464,7 @@ html
 
 #u995-5,#u995-7
 {
-	text-align: left;
+	text-align: right;
 }
 
 #pu1185
@@ -536,4 +534,3 @@ body
 {
 	clear: both;
 }
-
